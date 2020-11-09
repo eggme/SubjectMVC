@@ -22,7 +22,7 @@
         <li><a href="/insert.jsp">성적입력</a></li>
         <li><a href="/select.jsp">성적조회</a></li>
         <li><a href="/modify.jsp">성적수정</a></li>
-        <li><a href="/selectAll.jsp">전체조회</a></li>
+        <li><a href="/selectAll.do">전체조회</a></li>
     </ul>
 </div>
 </body>
